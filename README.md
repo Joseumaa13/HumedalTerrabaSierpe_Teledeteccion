@@ -8,6 +8,6 @@ En dicho trabajo se realiza en el Humedal Nacional Térraba-Sierpe, el cual se e
 
 ![Humedal Nacional Térraba-Sierpe, Osa, Puntarenas](Térraba-Sierpe1.jpg)
 
-<img src="Térraba-Sierpe1.jpg" Height="400" width="350">
+<img src="Térraba-Sierpe1.jpg" Height="600" width="350">
 
 ## Metodología
