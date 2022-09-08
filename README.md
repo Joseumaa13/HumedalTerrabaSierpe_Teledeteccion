@@ -8,7 +8,7 @@ En dicho trabajo se realiza en el Humedal Nacional Térraba-Sierpe, el cual se e
 
 <img src="Térraba-Sierpe1.jpg" Height="400" width="600">
 
-*Fig 1* Humedal Nacional Térraba-Sierpe. 
+*Fig 1*. Humedal Nacional Térraba-Sierpe. 
 
 
 ## Metodología
