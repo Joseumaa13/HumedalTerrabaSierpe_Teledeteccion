@@ -22,3 +22,13 @@ Para el NDVI utilizaron las bandas B5 y B4, mediante el método de NormalizedDif
 
 Para la colección del índice de sedimentos, se filtraron las imágenes por fechas, también utilizaron la propiedad llamada *“Cloudy_Pixel_Percentage”* con *“Less_Than”* con un valor de 20, así seleccionan las imágenes con menos nubosidad.  Para un análisis cuantitativo utilizaron de apoyo una imagen RGB con máscara de nube. Además, seleccionan dos sectores para así comparar las imágenes en ambas estaciones (época seca/lluviosa), las variables comparadas fueron el valor de longitud de onda contra la reflectancia total. Valores tomados desde los metadatos de la colección Sentinel S2.  
 Para el NDVI, con las bandas seleccionadas, por medio del NormalizedDifference, con una paleta de colores especificas mostraron de una mejor manera el índice. 
+
+# Resultados
+
+## Sedimentos disueltos y sólidos en el Humedal Nacional Térraba – Sierpe.  
+Identificaron zonas con aumento o disminución de arrastre de sedimentos, así mismos sedimentos disueltos en el agua, el mayor arrastre de sedimentos se presenta sobre la desembocadura del Río Térraba, de igual forma para el estero presente en el humedal.
+Igualmente, detectaron sólidos, los cuales se clasificaron o se determinaron como sólidos en las líneas de costa establecidas, por lo cual los resultados variaron debido al aumento o disminución de las mareas.  En las reflectancias, las tendencias entre estaciones fueron similares.  Los sedimentos presentan una mayor reflectancia en los valores del infrarrojo cercano, pero al encontrarse por debajo o disueltos en el agua, los valores pueden variar.  
+
+## NDVI  
+No identificaron cambios anormales en la cobertura vegetal en las dos estaciones, los valores de los pixeles del índice se mantuvieron constantes. Para el año 2018, los valores son ligeramente mayores, a diferencia del periodo 2019. Pudieron identificar una ligera disminución en el volumen de agua en Humedal. 
+
