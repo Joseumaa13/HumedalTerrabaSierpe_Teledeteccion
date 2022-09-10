@@ -32,3 +32,6 @@ Igualmente, detectaron sólidos, los cuales se clasificaron o se determinaron co
 ## NDVI  
 No identificaron cambios anormales en la cobertura vegetal en las dos estaciones, los valores de los pixeles del índice se mantuvieron constantes. Para el año 2018, los valores son ligeramente mayores, a diferencia del periodo 2019. Pudieron identificar una ligera disminución en el volumen de agua en Humedal. 
 
+<img src="NDVI_HNTS.png" Height="400" width="600">
+
+*Fig 2* NDVI del Humedal Nacional Térraba-Sierpe.
