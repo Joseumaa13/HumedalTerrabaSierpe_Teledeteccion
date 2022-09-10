@@ -39,3 +39,18 @@ No identificaron cambios anormales en la cobertura vegetal en las dos estaciones
 <img src="NDVI_HNTS.png" Height="200" width="300">
 
 *Fig 2*. NDVI del Humedal Nacional Térraba-Sierpe. Tomada de Chinchilla, Young y Umaña, 2021.
+
+### Referencias:
+
+Acuña, J., Quesada, A y Vargas, C. (2018). Cobertura y Distribución de las Especies de Mangle en el Humedal Nacional Térraba-Sierpe, Costa Rica. Anuario do Instituto de Geociencias. (https://www.researchgate.net/publication/324756318_Cobertura_y_Distribucion_de_las_Especies_de_Mangle_en_el_Humedal_Nacional_Terraba-Sierpe_Costa_Rica)
+
+Áreas Protegidas y Parques Nacionales de Costa Rica. (2013). Humedal Nacional Térraba-Sierpe. Recuperado de: (https://areasyparques.com/areasprotegidas/humedal-nacional-terraba-sierpe/)
+
+Arroyo, D. (2013). Humedal Nacional Térraba-Sierpe Nuevos pasos en nuestra acción social e  investigación. Escuela de Biología, Universidad de Costa Rica. Recuperado de: (https://www.kerwa.ucr.ac.cr/bitstream/handle/10669/11077/Humedal_terrabasierpe.pdf?sequence=1)
+
+GIS&Beers. (2019). Búsqueda de sedimentos y sólidos disueltos en GEE. Recuperado de: (http://www.gisandbeers.com/busqueda-sedimentos-solidos-disueltos-gee)
+Ibarguen, V y Bernal, D. (2019). Importancia de los humedales naturales y artificiales en el ámbito socio-ambiental. Una revisión bibliográfica. Universidad Santiago de Cali, Colombia. Recuperado de : (https://repository.usc.edu.co/bitstream/handle/20.500.12421/4453/IMPORTANCIA%20DE%20LOS%20HUMEDALES%20.pdf?sequence=3&isAllowed=y)
+
+Mainardi, V. (1996). El manglar de Térraba-Sierpe en Costa Rica. Centro Agronómico Tropical de Investigación y Enseñanza, Turrialba, Costa Rica. Recuperado de: (https://repositorio.catie.ac.cr/bitstream/handle/11554/1576/El_manglar_de_Terraba_Sierpe.pdf?sequence=1&isAllowed=y)
+
+Secretaría de la Convención de Ramsar. (2006). Manual de la Convención de Ramsar: Guía a la Convención sobre los Humedales (Ramsar, Irán, 1971), 4a. edición. Secretaría de la Convención de  Ramsar, Gland (Suiza). Recuperado de: (https://www.ramsar.org/sites/default/files/documents/pdf/lib/lib_manual2006s.pdf)
