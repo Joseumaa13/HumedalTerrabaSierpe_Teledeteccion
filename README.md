@@ -38,4 +38,4 @@ No identificaron cambios anormales en la cobertura vegetal en las dos estaciones
 
 <img src="NDVI_HNTS.png" Height="200" width="300">
 
-*Fig 2*. NDVI del Humedal Nacional Térraba-Sierpe.
+*Fig 2*. NDVI del Humedal Nacional Térraba-Sierpe. Tomada de Chinchilla, Young y Umaña, 2021.
