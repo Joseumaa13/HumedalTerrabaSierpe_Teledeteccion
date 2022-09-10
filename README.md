@@ -8,7 +8,7 @@ En dicho trabajo consiste en un estudio de teledetección en el Humedal Nacional
 
 <img src="Térraba-Sierpe1.jpg" Height="400" width="600">
 
-*Fig 1*. Humedal Nacional Térraba-Sierpe. Tomada de: [](https://qcostarica.com/humedal-nacional-terraba-sierpe/)
+*Fig 1*. Humedal Nacional Térraba-Sierpe. Tomada de: [QCOSTARICA](https://qcostarica.com/humedal-nacional-terraba-sierpe/)
 
 
 ## Metodología
