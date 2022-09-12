@@ -34,6 +34,7 @@ Identificaron zonas con aumento o disminución de arrastre de sedimentos, así m
 Igualmente, detectaron sólidos, los cuales se clasificaron o se determinaron como sólidos en las líneas de costa establecidas, por lo cual los resultados variaron debido al aumento o disminución de las mareas.  En las reflectancias, las tendencias entre estaciones fueron similares.  Los sedimentos presentan una mayor reflectancia en los valores del infrarrojo cercano, pero al encontrarse por debajo o disueltos en el agua, los valores pueden variar.  
 
 <img src="Colección2.png" Height="200" width="300">
+
 *Fig 2*. NDVI del Humedal Nacional Térraba-Sierpe. Tomada de Chinchilla, Young y Umaña, 2021.
 
 ## NDVI  
