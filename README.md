@@ -35,7 +35,7 @@ Igualmente, detectaron sólidos, los cuales se clasificaron o se determinaron co
 
 <img src="Colección2.png" Height="200" width="300">
 
-*Fig 2*. NDVI del Humedal Nacional Térraba-Sierpe. Tomada de Chinchilla, Young y Umaña, 2021.
+*Fig 2*. Sedimentos disueltos y sólidos en el Humedal Nacional Térraba-Sierpe. Tomada de Chinchilla, Young y Umaña, 2021.
 
 ## NDVI  
 No identificaron cambios anormales en la cobertura vegetal en las dos estaciones, los valores de los pixeles del índice se mantuvieron constantes. Para el año 2018, los valores son ligeramente mayores, a diferencia del periodo 2019. Pudieron identificar una ligera disminución en el volumen de agua en Humedal. 
