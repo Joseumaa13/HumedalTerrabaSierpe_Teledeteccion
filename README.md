@@ -46,7 +46,7 @@ No identificaron cambios anormales en la cobertura vegetal en las dos estaciones
 
 ### Referencias:
 
-[Acuña, J., Quesada, A y Vargas, C. (2018). Cobertura y Distribución de las Especies de Mangle en el Humedal Nacional Térraba-Sierpe, Costa Rica. Anuario do Instituto de Geociencias.](https://www.researchgate.net/publication/324756318_Cobertura_y_Distribucion_de_las_Especies_de_Mangle_en_el_Humedal_Nacional_Terraba-Sierpe_Costa_Rica)  
+Acuña, J., Quesada, A y Vargas, C. (2018). Cobertura y Distribución de las Especies de Mangle en el Humedal Nacional Térraba-Sierpe, Costa Rica. Anuario do Instituto de Geociencias.[](https://www.researchgate.net/publication/324756318_Cobertura_y_Distribucion_de_las_Especies_de_Mangle_en_el_Humedal_Nacional_Terraba-Sierpe_Costa_Rica)  
 
 [Áreas Protegidas y Parques Nacionales de Costa Rica. (2013). Humedal Nacional Térraba-Sierpe.](https://areasyparques.com/areasprotegidas/humedal-nacional-terraba-sierpe/)  
 
