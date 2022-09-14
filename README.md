@@ -20,7 +20,7 @@ En dicho trabajo consiste en un estudio de teledetección en el Humedal Nacional
 1. **Colección de imágenes y bandas**
 
 Los procesos de recopilación de información se realizaron por medio de Google Earth Engine. Para el calculo de índice de sedimentos disueltos, utilizaron tres bandas (B2, B4 y B8) de la colección sentinel S2 (Sentinel-2 MSI: MultiSprectral Instrument, Level-1C), estas bandas se multiplican por 3, por 5 y por 2, respectivamente, para así realizar una sumatoria final, generando una nueva colección, con los valores ajustados. 
-Para el NDVI utilizaron las bandas B5 y B4, mediante el método de NormalizedDifference, utilizando la colección LandSat 8 (USGS Landsat 8 Collection 1 Tier 1 and Real-Time Data TOA Reflectance) 
+Para el NDVI utilizaron las bandas B5 y B4, mediante el método de NormalizedDifference, utilizando la colección LandSat 8 (USGS Landsat 8 Collection 1 Tier 1 and Real-Time Data TOA Reflectance)
 
 2. **Procesamiento de los datos**
 
@@ -51,12 +51,13 @@ No identificaron cambios anormales en la cobertura vegetal en las dos estaciones
 [2.](https://areasyparques.com/areasprotegidas/humedal-nacional-terraba-sierpe/) Áreas Protegidas y Parques Nacionales de Costa Rica. (2013). Humedal Nacional Térraba-Sierpe. 
 
 
-[Arroyo, D. (2013). Humedal Nacional Térraba-Sierpe Nuevos pasos en nuestra acción social e  investigación. Escuela de Biología, Universidad de Costa Rica.](https://www.kerwa.ucr.ac.cr/bitstream/handle/10669/11077/Humedal_terrabasierpe.pdf?sequence=1)  
+[3](https://www.kerwa.ucr.ac.cr/bitstream/handle/10669/11077/Humedal_terrabasierpe.pdf?sequence=1) Arroyo, D. (2013). Humedal Nacional Térraba-Sierpe Nuevos pasos en nuestra acción social e  investigación. Escuela de Biología, Universidad de Costa Rica.   
 
-[GIS&Beers. (2019). Búsqueda de sedimentos y sólidos disueltos en GEE.](http://www.gisandbeers.com/busqueda-sedimentos-solidos-disueltos-gee)  
+[4](http://www.gisandbeers.com/busqueda-sedimentos-solidos-disueltos-gee) GIS&Beers. (2019). Búsqueda de sedimentos y sólidos disueltos en GEE. 
 
-[Ibarguen, V y Bernal, D. (2019). Importancia de los humedales naturales y artificiales en el ámbito socio-ambiental. Una revisión bibliográfica. Universidad Santiago de Cali, Colombia.](https://repository.usc.edu.co/bitstream/handle/20.500.12421/4453/IMPORTANCIA%20DE%20LOS%20HUMEDALES%20.pdf?sequence=3&isAllowed=y)  
+[5](https://repository.usc.edu.co/bitstream/handle/20.500.12421/4453/IMPORTANCIA%20DE%20LOS%20HUMEDALES%20.pdf?sequence=3&isAllowed=y) Ibarguen, V y Bernal, D. (2019). Importancia de los humedales naturales y artificiales en el ámbito socio-ambiental. Una revisión bibliográfica. Universidad Santiago de Cali, Colombia.
 
-[Mainardi, V. (1996). El manglar de Térraba-Sierpe en Costa Rica. Centro Agronómico Tropical de Investigación y Enseñanza, Turrialba, Costa Rica.](https://repositorio.catie.ac.cr/bitstream/handle/11554/1576/El_manglar_de_Terraba_Sierpe.pdf?sequence=1&isAllowed=y)  
+[6](https://repositorio.catie.ac.cr/bitstream/handle/11554/1576/El_manglar_de_Terraba_Sierpe.pdf?sequence=1&isAllowed=y)  Mainardi, V. (1996). El manglar de Térraba-Sierpe en Costa Rica. Centro Agronómico Tropical de Investigación y Enseñanza, Turrialba, Costa Rica.
 
-[Secretaría de la Convención de Ramsar. (2006). Manual de la Convención de Ramsar: Guía a la Convención sobre los Humedales (Ramsar, Irán, 1971), 4a. edición. Secretaría de la Convención de  Ramsar, Gland (Suiza).](https://www.ramsar.org/sites/default/files/documents/pdf/lib/lib_manual2006s.pdf)  
+[7](https://www.ramsar.org/sites/default/files/documents/pdf/lib/lib_manual2006s.pdf)  
+Secretaría de la Convención de Ramsar. (2006). Manual de la Convención de Ramsar: Guía a la Convención sobre los Humedales (Ramsar, Irán, 1971), 4a. edición. Secretaría de la Convención de  Ramsar, Gland (Suiza).
