@@ -51,13 +51,12 @@ No identificaron cambios anormales en la cobertura vegetal en las dos estaciones
 [2.](https://areasyparques.com/areasprotegidas/humedal-nacional-terraba-sierpe/) Áreas Protegidas y Parques Nacionales de Costa Rica. (2013). Humedal Nacional Térraba-Sierpe. 
 
 
-[3](https://www.kerwa.ucr.ac.cr/bitstream/handle/10669/11077/Humedal_terrabasierpe.pdf?sequence=1) Arroyo, D. (2013). Humedal Nacional Térraba-Sierpe Nuevos pasos en nuestra acción social e  investigación. Escuela de Biología, Universidad de Costa Rica.   
+[3.](https://www.kerwa.ucr.ac.cr/bitstream/handle/10669/11077/Humedal_terrabasierpe.pdf?sequence=1) Arroyo, D. (2013). Humedal Nacional Térraba-Sierpe Nuevos pasos en nuestra acción social e  investigación. Escuela de Biología, Universidad de Costa Rica.   
 
-[4](http://www.gisandbeers.com/busqueda-sedimentos-solidos-disueltos-gee) GIS&Beers. (2019). Búsqueda de sedimentos y sólidos disueltos en GEE. 
+[4.](http://www.gisandbeers.com/busqueda-sedimentos-solidos-disueltos-gee) GIS&Beers. (2019). Búsqueda de sedimentos y sólidos disueltos en GEE. 
 
-[5](https://repository.usc.edu.co/bitstream/handle/20.500.12421/4453/IMPORTANCIA%20DE%20LOS%20HUMEDALES%20.pdf?sequence=3&isAllowed=y) Ibarguen, V y Bernal, D. (2019). Importancia de los humedales naturales y artificiales en el ámbito socio-ambiental. Una revisión bibliográfica. Universidad Santiago de Cali, Colombia.
+[5.](https://repository.usc.edu.co/bitstream/handle/20.500.12421/4453/IMPORTANCIA%20DE%20LOS%20HUMEDALES%20.pdf?sequence=3&isAllowed=y) Ibarguen, V y Bernal, D. (2019). Importancia de los humedales naturales y artificiales en el ámbito socio-ambiental. Una revisión bibliográfica. Universidad Santiago de Cali, Colombia.
 
-[6](https://repositorio.catie.ac.cr/bitstream/handle/11554/1576/El_manglar_de_Terraba_Sierpe.pdf?sequence=1&isAllowed=y)  Mainardi, V. (1996). El manglar de Térraba-Sierpe en Costa Rica. Centro Agronómico Tropical de Investigación y Enseñanza, Turrialba, Costa Rica.
+[6.](https://repositorio.catie.ac.cr/bitstream/handle/11554/1576/El_manglar_de_Terraba_Sierpe.pdf?sequence=1&isAllowed=y) Mainardi, V. (1996). El manglar de Térraba-Sierpe en Costa Rica. Centro Agronómico Tropical de Investigación y Enseñanza, Turrialba, Costa Rica.
 
-[7](https://www.ramsar.org/sites/default/files/documents/pdf/lib/lib_manual2006s.pdf)  
-Secretaría de la Convención de Ramsar. (2006). Manual de la Convención de Ramsar: Guía a la Convención sobre los Humedales (Ramsar, Irán, 1971), 4a. edición. Secretaría de la Convención de  Ramsar, Gland (Suiza).
+[7.](https://www.ramsar.org/sites/default/files/documents/pdf/lib/lib_manual2006s.pdf) Secretaría de la Convención de Ramsar. (2006). Manual de la Convención de Ramsar: Guía a la Convención sobre los Humedales (Ramsar, Irán, 1971), 4a. edición. Secretaría de la Convención de  Ramsar, Gland (Suiza).
