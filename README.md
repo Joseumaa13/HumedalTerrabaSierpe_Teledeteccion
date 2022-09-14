@@ -50,7 +50,6 @@ No identificaron cambios anormales en la cobertura vegetal en las dos estaciones
 
 [2.](https://areasyparques.com/areasprotegidas/humedal-nacional-terraba-sierpe/) Áreas Protegidas y Parques Nacionales de Costa Rica. (2013). Humedal Nacional Térraba-Sierpe. 
 
-
 [3.](https://www.kerwa.ucr.ac.cr/bitstream/handle/10669/11077/Humedal_terrabasierpe.pdf?sequence=1) Arroyo, D. (2013). Humedal Nacional Térraba-Sierpe Nuevos pasos en nuestra acción social e  investigación. Escuela de Biología, Universidad de Costa Rica.   
 
 [4.](http://www.gisandbeers.com/busqueda-sedimentos-solidos-disueltos-gee) GIS&Beers. (2019). Búsqueda de sedimentos y sólidos disueltos en GEE. 
